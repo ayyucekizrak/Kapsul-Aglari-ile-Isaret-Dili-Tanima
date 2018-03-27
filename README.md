@@ -10,4 +10,6 @@
 [Kapsül Ağları ile İlgili Blog Yazısı](https://medium.com/@ayyucekizrak)
 
 [Kapsül Ağları ile İlgili Temel MNIST Çalışması / Deep Learning Türkiye](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
- ![My image](ayyucekizrak.github.com/Kapsul-Aglari-ile-Isaret-Dili-Tanima/img/Adsız.jpg)
+
+![My image](ayyucekizrak.github.com/Kapsul-Aglari-ile-Isaret-Dili-Tanima/ModelImage.png)
+
