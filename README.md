@@ -11,7 +11,6 @@
 
 [Kapsül Ağları ile İlgili Temel MNIST Çalışması / Deep Learning Türkiye](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
 
-![İşaret Dili Tanıma için Kapsül Modeli - Sign Language using Capsule Networks]
-(https://github.com/ayyucekizrak.github.com/Kapsul-Aglari-ile-Isaret-Dili-Tanima/ModelImage.png)
+![İşaret Dili Tanıma için Kapsül Modeli - Sign Language using Capsule Networks](ModelImage.png)
 
 
