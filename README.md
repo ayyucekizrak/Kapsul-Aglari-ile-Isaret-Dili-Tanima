@@ -1,5 +1,5 @@
 ### Yazarlar / Authors
-Fuat Beşer, Merve Ayyüce KIZRAK, Bülent BOLAT, Tülay YILDIRIM
+Fuat Beşer, [Merve Ayyüce KIZRAK](http://www.ayyucekizrak.com/), Bülent BOLAT, Tülay YILDIRIM
 # Kapsul Aglari ile Isaret Dili Tanima
 ##### İşitme ve konuşma engelliler, dudak okuma ya da el ve yüz hareketlerinden oluşan ifadeler yardımıyla iletişimlerini sürdürmektedirler. Engelli bireylerin topluma katılımlarının sağlanması ve yaşam kalitelerinin artırılması diğer insanlarla sağlıklı ve etkili bir şekilde iletişim kurmaları ile mümkün olmaktadır. Bu çalışmada; işaret diline ait rakamların, derin yapay sinir ağı (deep artificial neural network) modeli olan Kapsül Ağları ile **%94,2** başarı ile tanınması sağlanmıştır. 
 
