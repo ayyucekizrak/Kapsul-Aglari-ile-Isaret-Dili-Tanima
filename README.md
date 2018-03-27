@@ -1,4 +1,4 @@
-## Yazarlar / Authors
+### Yazarlar / Authors
 [Fuat Beşer](https://www.linkedin.com/in/fuatbeser/), [Merve Ayyüce KIZRAK](http://www.ayyucekizrak.com/), [Bülent BOLAT](http://www.yildiz.edu.tr/~bbolat/), [Tülay YILDIRIM](http://www.yildiz.edu.tr/~tulay/)
 
 # Kapsul Aglari ile Isaret Dili Tanima
