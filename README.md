@@ -11,5 +11,5 @@
 
 [Kapsül Ağları ile İlgili Temel MNIST Çalışması / Deep Learning Türkiye](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
 
-![My image](ayyucekizrak.github.com/Kapsul-Aglari-ile-Isaret-Dili-Tanima/ModelImage.png)
+![ModelImage](ayyucekizrak.github.com/Kapsul-Aglari-ile-Isaret-Dili-Tanima/ModelImage.png)
 
