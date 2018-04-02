@@ -10,7 +10,7 @@
 # Recognition of Sign Language using Capsule Networks
 ##### Hearing and speech impaired persons continue to communicate with the help of lip reading or hand and face movements also known as a sign language. Ensuring the disabled persons participation in life and increasing their quality of life are achievable through healthy and effective communication with other people. In this work; digits of the sign language were recognized with **94.2%** validation accuracy by Capsule Networks.
 
-:memo: [Makale/Paper-SIU2018](http://www.siu2018.org/)
+:memo: [Makale/Paper-SIU2018](http://www.siu2018.org/) (IEEExplore yayıma geçtiğinde linki verilecektir)
 
 :point_right:[Veri Seti/Dataset-Kaggle-ArdaMavi](https://www.kaggle.com/ardamavi/sign-language-digits-dataset) :point_left:
 
