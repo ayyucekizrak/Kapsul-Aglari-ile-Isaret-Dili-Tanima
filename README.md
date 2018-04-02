@@ -17,4 +17,5 @@
 :pill: [Kapsül Ağları ile İlgili Blog Yazısı](https://medium.com/deep-learning-turkiye/yapay-zekan%C4%B1n-yeni-ve-%C3%A7ekici-mimarisi-kaps%C3%BCl-a%C4%9F%C4%B1na-uygulamal%C4%B1-bir-bak%C4%B1%C5%9F-ef7310e3d847)
 
 :heavy_check_mark: [Kapsül Ağları ile İlgili Temel MNIST Çalışması / Deep Learning Türkiye](https://github.com/deeplearningturkiye/kapsul-agi-capsule-network)
+
 ![Deep Learning Türkiye](DL_TR.jpg)
